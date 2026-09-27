@@ -6,7 +6,7 @@
 - 📫 How to reach me **tanvirwd007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/zahidul-islam-a14a0143a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)] (www.linkedin.com/in/zahidul-islam-a14a0143a)
 <p align="left">
 </p>
 
